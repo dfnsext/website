@@ -1494,12 +1494,6 @@
     "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
   },
   {
-    "token-name": "Klaytn",
-    "token-symbol": "KLAY",
-    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
-    "url-blockchain": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png"
-  },
-  {
     "token-name": "KoaCombat",
     "token-symbol": "KOACOMBAT",
     "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/18266.png",

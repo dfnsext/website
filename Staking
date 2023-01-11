@@ -1,0 +1,17 @@
+[
+  {
+    "token-name": "Ankr",
+    "token-symbol": "ANKR",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fbdbc4cc38f7567b157cd_ankr-logo.png"
+  },
+  {
+    "token-name": "Figment (coming soon)",
+    "token-symbol": "FIGMENT",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc01c60eb5a17ecafbc53_figment.svg"
+  },
+  {
+    "token-name": "Infura (coming soon)",
+    "token-symbol": "INF",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc01c301003174c3dc70e_infura.png"
+  }
+]

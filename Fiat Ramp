@@ -1,0 +1,27 @@
+[
+  {
+    "token-name": "Mt Pelerin",
+    "token-symbol": "BNB",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fdb89a7f9d377ebd1c46b_mt-pelerin.png"
+  },
+  {
+    "token-name": "Ramp",
+    "token-symbol": "RAMP",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fdb894871670c378febe5_ramp.png"
+  },
+  {
+    "token-name": "Onramper (coming soon)",
+    "token-symbol": "BNB",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fdb89f27b89293f46052d_onramper.png"
+  },
+  {
+    "token-name": "Sardine (coming soon)",
+    "token-symbol": "COMP",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fdb892751f1dce75a5ae3_sardine.png"
+  },
+  {
+    "token-name": "Moonpay (coming soon)",
+    "token-symbol": "UNI",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fdb89af5055f300cadc85_moonpay.png"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "token-name": "Nilos",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc5d1d15f6518865d81d4_nilos.png"
+  },
+  {
+    "token-name": "Cryptio (coming soon)",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc68d799bce4b3f20a6cb_cryptio.png"
+  },
+  {
+    "token-name": "Zenledger (coming soon)",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc68cf097040163ce3bed_zenledger.png"
+  },
+  {
+    "token-name": "Request (coming soon)",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc68cb5963640ff7fdcf8_request.svg"
+  }
+]

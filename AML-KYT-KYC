@@ -1,0 +1,17 @@
+[
+  {
+    "token-name": "Elliptic (coming soon)",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fd86cb241f123a526ea2b_elliptic.png"
+  },
+  {
+    "token-name": "Coinfirm (coming soon)",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fd86c708045fb4f5f9de3_coinfirm.png"
+  },
+  {
+    "token-name": "Onfido (coming soon)",
+    "token-symbol": "",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fd86cb165565411ff330d_onfido.png"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "token-name": "Wallet Connect",
+    "token-symbol": "BNB",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fd6c33ea9356efc182287_walletconnect.png"
+  },
+  {
+    "token-name": "Aave (coming soon)",
+    "token-symbol": "AAVE",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+  },
+  {
+    "token-name": "Curve (coming soon)",
+    "token-symbol": "CRV",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png"
+  },
+  {
+    "token-name": "Compound (coming soon)",
+    "token-symbol": "COMP",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png"
+  },
+  {
+    "token-name": "Uniswap (coming soon)",
+    "token-symbol": "UNI",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+  },
+  {
+    "token-name": "Convex Finance (coming soon)",
+    "token-symbol": "CVX",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png"
+  },
+  {
+    "token-name": "Sushiswap (coming soon)",
+    "token-symbol": "SUSHI",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+  },
+  {
+    "token-name": "yearn.finance (coming soon)",
+    "token-symbol": "YFI",
+    "url-token": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
+  }
+]

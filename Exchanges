@@ -1,16 +1,16 @@
 [
   {
-    "token-name": "Coinbase",
-    "token-symbol": "coming soon",
+    "token-name": "Coinbase (coming soon)",
+    "token-symbol": "COIN",
     "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fb5d747d161b0b49c4f43_coinbase.svg"
   },
   {
-    "token-name": "Binance",
+    "token-name": "Binance (coming soon)",
     "token-symbol": "BNB",
     "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fb6926c5db67507f6d8cb_binance-coin.png"
   },
   {
-    "token-name": "Kraken",
+    "token-name": "Kraken (coming soon)",
     "token-symbol": "BTC",
     "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fb719b16556aceefce668_kraken-symbol.png"
   }

@@ -1,0 +1,17 @@
+[
+  {
+    "token-name": "Vinter",
+    "token-symbol": "BNB",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc38fc8f1b25f7bb9c7ed_vinter.png"
+  },
+  {
+    "token-name": "Messari (coming soon)",
+    "token-symbol": "ICO",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc38fd307d3e2e496ea44_messari.jpg"
+  },
+  {
+    "token-name": "Chainlink (coming soon)",
+    "token-symbol": "LINK",
+    "url-token": "https://uploads-ssl.webflow.com/6248142028928a25074e21ec/635fc38f3ea935417816c6ae_chainlink.png"
+  }
+]
